@@ -1,0 +1,13 @@
+C:\Users\xavav\Desktop\Uni\Pattrns\SearchingSystem\bin\Debug\netcoreapp3.1\SearchingSystem.exe
+C:\Users\xavav\Desktop\Uni\Pattrns\SearchingSystem\bin\Debug\netcoreapp3.1\SearchingSystem.deps.json
+C:\Users\xavav\Desktop\Uni\Pattrns\SearchingSystem\bin\Debug\netcoreapp3.1\SearchingSystem.runtimeconfig.json
+C:\Users\xavav\Desktop\Uni\Pattrns\SearchingSystem\bin\Debug\netcoreapp3.1\SearchingSystem.runtimeconfig.dev.json
+C:\Users\xavav\Desktop\Uni\Pattrns\SearchingSystem\bin\Debug\netcoreapp3.1\SearchingSystem.dll
+C:\Users\xavav\Desktop\Uni\Pattrns\SearchingSystem\bin\Debug\netcoreapp3.1\SearchingSystem.pdb
+C:\Users\xavav\Desktop\Uni\Pattrns\SearchingSystem\obj\Debug\netcoreapp3.1\SearchingSystem.csprojAssemblyReference.cache
+C:\Users\xavav\Desktop\Uni\Pattrns\SearchingSystem\obj\Debug\netcoreapp3.1\SearchingSystem.AssemblyInfoInputs.cache
+C:\Users\xavav\Desktop\Uni\Pattrns\SearchingSystem\obj\Debug\netcoreapp3.1\SearchingSystem.AssemblyInfo.cs
+C:\Users\xavav\Desktop\Uni\Pattrns\SearchingSystem\obj\Debug\netcoreapp3.1\SearchingSystem.csproj.CoreCompileInputs.cache
+C:\Users\xavav\Desktop\Uni\Pattrns\SearchingSystem\obj\Debug\netcoreapp3.1\SearchingSystem.dll
+C:\Users\xavav\Desktop\Uni\Pattrns\SearchingSystem\obj\Debug\netcoreapp3.1\SearchingSystem.pdb
+C:\Users\xavav\Desktop\Uni\Pattrns\SearchingSystem\obj\Debug\netcoreapp3.1\SearchingSystem.genruntimeconfig.cache
